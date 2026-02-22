@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm Harsh Kumar Mahto
 
-<!--
-**harshkmahto/harshkmahto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack MERN Developer  
+💻 Passionate about building scalable web applications  
+🌍 Open to Internship & Job Opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript (ES6+)
+- React.js
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+
+### Database
+- MongoDB
+- Mongoose
+
+### Tools
+- Git & GitHub
+- Postman
+- VS Code
+
+---
+
+## 📂 Featured Projects
+
+### 🛒 E-Commerce Application
+- MERN Stack
+- Authentication System
+- Admin Panel
+- Responsive Design
+
+### 🎨 Portfolio Website
+- Modern UI
+- Fully Responsive
+- Clean Design
+
+---
+
+## 📈 Goals
+
+- Master System Design
+- Contribute to Open Source
+- Build Real-World Applications
+- Become a Strong Full Stack Developer
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: harshkmahto1@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/harshkumarmahto  
+- 🖥 Portfolio: (add later)
