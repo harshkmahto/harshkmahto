@@ -32,15 +32,8 @@
 - VS Code
 
 ---
-## 📊 GitHub Stats
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshkmahto&show_icons=true&theme=tokyonight)
----
-## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshkmahto&layout=compact&theme=tokyonight)
-
----
 
 ## 📂 Featured Projects
 
@@ -56,6 +49,7 @@
 - Clean Design
 
 ---
+
 ## 🛠 Skills
 
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
@@ -66,17 +60,14 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
-theme=github_dark
----
+
 ## 👀 Profile Views
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=harshkmahto&color=blue)
 
 ---
 
-
-
-## 📈 Goals
+## 🎯 Goals
 
 - Master System Design
 - Contribute to Open Source
@@ -89,4 +80,4 @@ theme=github_dark
 
 - 📧 Email: harshkmahto1@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/harshkumarmahto  
-- 🖥 Portfolio: (add later)
+- 🖥 Portfolio: Add Soon
